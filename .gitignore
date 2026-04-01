@@ -1,0 +1,6 @@
+# Git
+.git
+
+# Python
+.venv
+.python-version
